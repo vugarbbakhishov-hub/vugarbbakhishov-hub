@@ -1,16 +1,16 @@
-## Hi there 👋
+# Vugar Bakhishov
 
-<!--
-**vugarbbakhishov-hub/vugarbbakhishov-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical web projects with React, TypeScript and Tailwind CSS.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React and TypeScript interfaces
+- Accessible, responsive UI
+- Testing, maintainable code and clear documentation
+
+## Public work
+
+- [DataLabAcademy](https://github.com/vugarbbakhishov-hub/datalabacademy) — an education platform built with PHP, HTML, CSS/SCSS and JavaScript.
+- [Lucide PR #4862](https://github.com/lucide-icons/lucide/pull/4862) — a Windows ESM path fix for icon build asset imports, with a regression test for paths containing URL characters.
+
+I learn by reading existing code, reproducing real issues, writing focused fixes and sharing the result clearly.
