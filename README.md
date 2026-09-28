@@ -11,7 +11,7 @@ Building practical tools and web projects with TypeScript, React and Tailwind CS
 
 ## Public work
 
-- [csv-quality](https://github.com/vugarbbakhishov-hub/csv-quality) - a zero-dependency TypeScript library and CLI for inspecting CSV structure, completeness, duplicates, column quality and CI quality gates. [v0.2.0 release](https://github.com/vugarbbakhishov-hub/csv-quality/releases/tag/v0.2.0).
+- [csv-quality](https://github.com/vugarbbakhishov-hub/csv-quality) - a zero-dependency TypeScript library and CLI for inspecting CSV structure, completeness, duplicates and column quality, with CI quality gates and CSV, JSON or Markdown reports. [v0.2.0 release](https://github.com/vugarbbakhishov-hub/csv-quality/releases/tag/v0.2.0).
 - [Local CSV Lens](https://github.com/vugarbbakhishov-hub/local-csv-lens) - a browser-only React and TypeScript tool for inspecting CSV completeness, duplicate rows, column types and quality issues. [v0.3.0 release](https://github.com/vugarbbakhishov-hub/local-csv-lens/releases/tag/v0.3.0).
 - [Log Pattern Lens](https://github.com/vugarbbakhishov-hub/log-pattern-lens) - a browser-only React and TypeScript utility for opening local log files, folding stack traces, detecting and masking possible sensitive values, loading sample presets, previewing reports, grouping repeated patterns and exporting CSV/JSON reports. [v0.3.0 release](https://github.com/vugarbbakhishov-hub/log-pattern-lens/releases/tag/v0.3.0). [Live demo](https://vugarbbakhishov-hub.github.io/log-pattern-lens/).
 - [DataLabAcademy](https://github.com/vugarbbakhishov-hub/datalabacademy) - an education platform built with PHP, HTML, CSS/SCSS and JavaScript.
