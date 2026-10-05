@@ -18,6 +18,6 @@ Building practical tools and web projects with TypeScript, React and Tailwind CS
 - [Lucide PR #4862](https://github.com/lucide-icons/lucide/pull/4862) - a Windows ESM path fix for icon build asset imports, with a regression test for paths containing URL characters.
 - [Lucide PR #4872](https://github.com/lucide-icons/lucide/pull/4872) - merged test coverage for React SVG attribute conversion shared by the React packages.
 - [Lucide PR #4873](https://github.com/lucide-icons/lucide/pull/4873) - a generated binding fix that keeps the public `Infinity` export while making the CJS bundle compile in Hermes.
-- [Lucide PR #4927](https://github.com/lucide-icons/lucide/pull/4927) - a focused `@lucide/svelte/context` package export and documentation update so context helpers can be imported without resolving the root icon barrel.
+- [Lucide PR #4927](https://github.com/lucide-icons/lucide/pull/4927) - merged October 2, 2026: a focused `@lucide/svelte/context` package export and documentation update so context helpers can be imported without resolving the root icon barrel.
 
 I learn by reading existing code, reproducing real issues, writing focused fixes and sharing the result clearly.
